@@ -328,27 +328,28 @@ a{
     flex-wrap: wrap;
     background-image: linear-gradient(90deg,rgba(198, 117, 244, 0.368), rgba(235, 145, 229, 0.285));
     padding: 20px 0px 15px;
+    box-shadow: #0F1111;
 }
 
-.box1{
+.bor{
     height: 430px;
     width: 23%;
     border: none;
     background-color: white;
+    border-radius: 5px;
+    box-shadow: 10px 7px 7px #191b1b8a;;
 }
+
+.bor:hover{
+    height: 435px;
+}
+
 
 .box-img1{
     height: 300px;
     background-image: url("/Req_imgs/img1.jpg");   
     margin: 0px 20px 10px 20px;
     background-size: cover;
-}
-
-.box2{
-    height: 430px;
-    width: 23%;
-    border: none;
-    background-color: white;
 }
 
 .box-img2{
@@ -358,26 +359,11 @@ a{
     background-size: cover;
 }
 
-
-.box3{
-    width: 23%;
-    height: 430px;
-    border: none;
-    background-color: white;
-}
-
 .box-img3{
     height: 300px;
     margin: 0px 20px 10px 20px;
     background-image: url("/Req_imgs/img3.jpg");
     background-size: cover;
-}
-
-.box4{
-    height: 430px;
-    width: 23%;
-    border: none;
-    background-color: white;
 }
 
 .box-img4{
@@ -387,27 +373,11 @@ a{
     background-size: cover;
 }
 
-.box5{
-    height: 430px;
-    width: 23%;
-    margin-top: 20px;
-    border: none;
-    background-color: white;
-}
-
 .box-img5{
     height: 300px;
     background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_2x_v3._SY608_CB573698005_.jpg");   
     margin: 0px 20px 10px 20px;
     background-size: cover;
-}
-
-.box6{
-    height: 430px;
-    width: 23%;
-    margin-top: 20px;
-    border: none;
-    background-color: white;
 }
 
 .box-img6{
@@ -417,28 +387,11 @@ a{
     background-size: cover;
 }
 
-
-.box7{
-    width: 23%;
-    height: 430px;
-    margin-top: 20px;
-    border: none;
-    background-color: white;
-}
-
 .box-img7{
     height: 300px;
     margin: 0px 20px 10px 20px;
     background-image: url("/Req_imgs/img7.jpg");
     background-size: cover;
-}
-
-.box8{
-    height: 430px;
-    width: 23%;
-    margin-top: 20px;
-    border: none;
-    background-color: white;
 }
 
 .box-img8{
