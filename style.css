@@ -344,7 +344,6 @@ a{
     height: 435px;
 }
 
-
 .box-img1{
     height: 300px;
     background-image: url("/Req_imgs/img1.jpg");   
@@ -476,8 +475,12 @@ img{
     width: 180px;
     border: 1px solid black;
     border-radius: 4px;
-    background-color: #d1f131;
+    background-color: #e8fd04;
     margin: 10px;
+}
+
+.cust-signin:hover{
+    background-color: #d1f131 ;
 }
 
 .cust-signin a{
